@@ -1,0 +1,111 @@
+/*******************
+	General Calsses Start  
+***********************************/
+
+.mx-n2{ margin-right: -0.5rem !important;  margin-left: -0.5rem !important; }
+
+.shadow-sm { box-shadow: 0 10px 40px 0 rgb(165 165 165 / 8%), 0 2px 9px 0 rgb(6 6 6 / 15%)  !important; }
+.shadow-small {box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.08);}
+.shadow-medium {box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1) !important;}
+.shadow-black {box-shadow: 0px 10px 20px rgba(51, 51, 51, 0.5);}
+.filter-small {filter: drop-shadow(0px 0px 30px rgba(0, 0, 0, 0.08));}
+.input-shadow {box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1) !important;}
+.delete-shadow {box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);}
+.thead-shadow {box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.05);}
+.login-shadow {box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.05);}
+
+a { outline: none !important;  text-decoration: none; }
+
+.mt-6 { margin-top: 4rem !important; }
+.mt-7 { margin-top: 5rem !important; }
+.mt-8 { margin-top: 6rem !important; }
+
+.mb-6 {margin-bottom: 4rem !important; }
+.mb-7 { margin-bottom: 5rem !important; }
+.mb-8 { margin-bottom: 6rem !important; }
+
+.p-lg-6{padding: 4rem;}
+
+
+.text-purple{ color:#AC57EC; }
+.text-yellow{ color:#FFB300; }
+.text-green{ color:#51CC1D !important;}
+.text-danger {color: #FF1625 !important;}
+.text-seegreen {color: #04D4B4 !important;}
+.text-gray { color:  #666666 !important;}
+.text-lightred{ color: #DC0D0D !important;}
+.text-black {color: #15191C !important;}
+.text-red {color: #FF0000 !important;}
+.text-blue {color: #2c61ad !important;}
+.text-lightgray {color: #707070;}
+.fc-gray {color: #b9b9b9;}
+.fc-yellow {color: #FFBB00;}
+.fc-darkblue {color: #375fb4;}
+
+.w-auto{ width: auto !important;}
+.w-20 {width: 20% !important;}
+.w-50 {width: 50% !important;}
+.mnw-100 {min-width: 100% !important;}
+.border{ border-color: #E2E2E2 !important;}
+
+/* .rounded {border-radius: 10px !important;}
+.rounded {border-radius:49px !important;} */
+
+.rounded-5 {border-radius: 5px;}
+.rounded-10 {border-radius: 10px;}
+.rounded-20 {border-radius: 20px;}
+.rounded-30 {border-radius: 30px;}
+.rounded-50 {border-radius: 50px !important;}
+.rounded-top-left-right {border-radius: 10px 10px 0 0 !important;}
+
+.bg-light {background: #F9F9F9 !important;}
+.bg-light2 {background:#EEEEEE;}
+.bg-gray {background:#f9f6f6;}
+
+.h-150{ height:150px;}
+.height-500 { height: 500px !important; }
+.height-390 { height: 390px !important; }
+.height-450 { height: 450px !important; }
+
+.z-inxed-1{ z-index: 1;}
+
+.fw-light{ font-weight: 300 !important;}
+.fw-regular{ font-weight: 400 !important;}
+.fw-medium{ font-weight: 500 !important;}
+.fw-semibold{ font-weight: 600 !important;}
+.fw-bold{ font-weight: 700 !important;}
+
+.shadow-none{ box-shadow: none !important;}
+.border{ border-color: #E2E2E2 !important;}
+.border-top{ border-top: 1px solid #E2E2E2 !important; }
+.border-bottom{ border-bottom: 1px solid #E2E2E2 !important; }
+
+.btn-blue {background: linear-gradient(#2c61ad 0%, #163157 100%) !important; filter: drop-shadow(0px 10px 20px rgba(44, 97, 173, 0.5)) !important; border-top: #fff0; color: #fff !important;}
+.btn-green {background: linear-gradient(#2cad4a 0%, #165725 100%); filter: drop-shadow(0px 10px 20px rgba(38, 150, 64, 0.5)); border-top: #fff0;}
+.btn-red {background: linear-gradient(#f00 0%, #800000 100%); box-shadow: 0px 10px 20px rgba(255, 0, 0, 0.5); border-top: #fff0;}
+.btn-green:hover, .btn-red:hover {color: #fff;}
+.btn-dark {background-color: #333333; border: 1px solid #333333 !important;}
+.btn-dark:hover {background-color: #fff; color: #333333 !important;}
+
+.blue:before {content: ''; width: 12px; height: 100%; border-radius: 0px 10px 10px 0px; background: #2c61ad; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.16); position: absolute; top: 0; left: 0;}
+.yellow:before {content: ''; width: 12px; height: 100%; border-radius: 0px 10px 10px 0px; background: #fae43e; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.16); position: absolute; top: 0; left: 0;}
+
+.blue-header {background-color: #2C61AD;}
+.yellow-header {background-color: #FFCC41;}
+.bg-lightblue {background: rgba(44, 97, 173, 0.07);}
+
+.lh-21 {line-height: calc(19px + (21 - 19) * ((100vw - 300px) / (1920 - 300)));}
+
+.fs-12 {font-size: 12px;}
+.fs-14 {font-size: 14px;}
+.fs-16 {font-size: calc(14px + (16 - 14) * ((100vw - 300px) / (1920 - 300))) !important;}
+.fs-18 {font-size: calc(16px + (18 - 16) * ((100vw - 300px) / (1920 - 300)));}
+.fs-20 {font-size: calc(18px + (20 - 18) * ((100vw - 300px) / (1920 - 300)));}
+.fs-25 {font-size: calc(20px + (25 - 20) * ((100vw - 300px) / (1920 - 300)));}
+.fs-30 {font-size: calc(24px + (30 - 24) * ((100vw - 300px) / (1920 - 300))) !important;}
+.fs-40 {font-size: calc(34px + (40 - 34) * ((100vw - 300px) / (1920 - 300)));}
+.fs-50 {font-size: calc(36px + (50 - 36) * ((100vw - 300px) / (1920 - 300)));}
+.fs-74 {font-size: calc(55px + (74 - 55) * ((100vw - 300px) / (1920 - 300)));}
+/*******************
+	General Calsses End   
+***********************************/
