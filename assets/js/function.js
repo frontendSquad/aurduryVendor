@@ -455,6 +455,7 @@ function showTab(n) {
   }
   if (n == (x.length - 1)) {
     document.getElementById("nextBtn").innerHTML = "Regiter";
+	jQuery('#nextbtn').attr('data-bs-target', '.sign-up');
   } else {
     document.getElementById("nextBtn").innerHTML = "Continue";
   }
@@ -473,8 +474,9 @@ function nextPrev(n) {
   currentTab = currentTab + n;
   // if you have reached the end of the form...
   if (currentTab >= x.length) {
-    // ... the form gets submitted:
-    document.getElementById("regForm").submit();
+	jQuery('#sign-up').trigger('click');
+    // document.getElementById("regForm").submit();
+	
     return false;
   }
   // Otherwise, display the correct tab:

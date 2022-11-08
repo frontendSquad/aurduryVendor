@@ -41,7 +41,7 @@
                             class="img-fluid"><span class="menu-title" data-i18n="">Order Log</span></a>
                 </li>
                 <li class="nav-item <?php if ($pg == "payment-logs") { echo "active"; } ?>">
-                    <a href="payment-logs.php" class="mm-next"><img src="../assets/images/payment-logs.png" alt=""
+                    <a href="view-transaction.php" class="mm-next"><img src="../assets/images/payment-logs.png" alt=""
                             class="img-fluid"><span class="menu-title">Payment Logs</span></a>
                 </li>
             </ul>

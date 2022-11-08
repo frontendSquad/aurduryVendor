@@ -12,7 +12,7 @@ include('../include/header.php');
                 <h2><a href="#"></a> Inventory Mangement</h2>
             </div>
             <div class="col-md-6 d-flex justify-content-md-end mb-3">
-                <a class="btn btn-blue fs-18 fw-bold">Add New Product</a>
+                <a class="btn btn-blue fs-18 fw-bold" href="./add-new-product.php">Add New Product</a>
             </div>
         </div>
     </div>

@@ -112,14 +112,14 @@
                                 <div>
                                     <span class="user-name fs-18 fw-bold">Joshua Rozario</span>
                                     <br>
-                                    <span class="user-title fs-16 fw-semibold text-black">Admin</span>
+                                    <span class="user-title fs-16 fw-semibold text-black">Vendor</span>
                                 </div>
                             </a>
                             <div class="dropdown-menu dropdown-menu-right me-3 me-md-0 ms-3 ms-md-0">
                                 <a class="dropdown-item" href="profile.php"><img src="../assets/images/profile.png" class="mw-100 pr-2" alt=""> Profile</a>
-                                <a class="dropdown-item" href="profile.php"><img src="../assets/images/contact.png" class="mw-100 pr-2" alt=""> Contact Us</a>
+                                <a class="dropdown-item" href="contact-us.php"><img src="../assets/images/contact.png" class="mw-100 pr-2" alt=""> Contact Us</a>
                                 <a class="dropdown-item" href="javascript:void(0);" data-bs-toggle="modal" data-bs-target=".profile-logout"><img src="../assets/images/logout.png" class="mw-100 pr-2" alt="">Logout</a>
-                                <a class="dropdown-item" href="profile.php"><img src="../assets/images/account.png" class="mw-100 pr-2" alt=""> Account Details</a>
+                                <a class="dropdown-item" href="account-details.php"><img src="../assets/images/account.png" class="mw-100 pr-2" alt=""> Account Details</a>
                             </div>
                         </li>
                         <!-- <li class="nav-item d-block align-self-center">

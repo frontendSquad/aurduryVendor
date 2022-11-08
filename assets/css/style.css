@@ -1562,6 +1562,27 @@ img.mw-100.pr-2 {
     font-weight: 400;
 }
 
+.font-bold {
+	font-weight: bold;
+}
+
+.socialIcon {
+    background-color: #2C61AD;
+    color: #fff;
+    font-size: 30px;
+    width: 75px;
+    height: 75px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50px;
+    flex-shrink: 0;
+}
+
+.bg-theme-primary {
+    background-color: #1E457D;
+}
+
 /*===================== responsive start here=====================*/
 
 @media (min-width: 991px) and (max-width: 1440px) {

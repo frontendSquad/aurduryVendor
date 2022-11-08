@@ -328,7 +328,7 @@ include('../include/header.php');
                                                 In Pending <i class="fas fa-caret-down text-lightgray"></i>
                                             </button>
                                             <div class="dropdown-menu">
-                                                <a class="dropdown-item" href="view-store-listing.php"><i
+                                                <a class="dropdown-item" href="in-process-order.php"><i
                                                         class="fas fa-arrow-down"></i> In Progress</a>
                                             </div>
                                         </div>
@@ -340,7 +340,7 @@ include('../include/header.php');
                                                 <i class="fa fa-ellipsis-v"></i>
                                             </button>
                                             <div class="dropdown-menu">
-                                                <a class="dropdown-item" href="view-store-listing.php"><i
+                                                <a class="dropdown-item" href="in-process-order.php"><i
                                                         class="fa fa-eye"></i>View Order</a>
                                             </div>
                                         </div>
@@ -360,7 +360,7 @@ include('../include/header.php');
                                                 In Pending <i class="fas fa-caret-down text-lightgray"></i>
                                             </button>
                                             <div class="dropdown-menu">
-                                                <a class="dropdown-item" href="view-store-listing.php"><i
+                                                <a class="dropdown-item" href="in-process-order.php"><i
                                                         class="fas fa-arrow-down"></i> In Progress</a>
                                             </div>
                                         </div>
@@ -372,7 +372,7 @@ include('../include/header.php');
                                                 <i class="fa fa-ellipsis-v"></i>
                                             </button>
                                             <div class="dropdown-menu">
-                                                <a class="dropdown-item" href="view-store-listing.php"><i
+                                                <a class="dropdown-item" href="in-process-order.php"><i
                                                         class="fa fa-eye"></i>View Order</a>
                                             </div>
                                         </div>
@@ -392,7 +392,7 @@ include('../include/header.php');
                                                 In Pending <i class="fas fa-caret-down text-lightgray"></i>
                                             </button>
                                             <div class="dropdown-menu">
-                                                <a class="dropdown-item" href="view-store-listing.php"><i
+                                                <a class="dropdown-item" href="in-process-order.php"><i
                                                         class="fas fa-arrow-down"></i> In Progress</a>
                                             </div>
                                         </div>
@@ -404,7 +404,7 @@ include('../include/header.php');
                                                 <i class="fa fa-ellipsis-v"></i>
                                             </button>
                                             <div class="dropdown-menu">
-                                                <a class="dropdown-item" href="view-store-listing.php"><i
+                                                <a class="dropdown-item" href="in-process-order.php"><i
                                                         class="fa fa-eye"></i>View Order</a>
                                             </div>
                                         </div>
@@ -424,7 +424,7 @@ include('../include/header.php');
                                                 In Pending <i class="fas fa-caret-down text-lightgray"></i>
                                             </button>
                                             <div class="dropdown-menu">
-                                                <a class="dropdown-item" href="view-store-listing.php"><i
+                                                <a class="dropdown-item" href="in-process-order.php"><i
                                                         class="fas fa-arrow-down"></i> In Progress</a>
                                             </div>
                                         </div>
@@ -436,7 +436,7 @@ include('../include/header.php');
                                                 <i class="fa fa-ellipsis-v"></i>
                                             </button>
                                             <div class="dropdown-menu">
-                                                <a class="dropdown-item" href="view-store-listing.php"><i
+                                                <a class="dropdown-item" href="in-process-order.php"><i
                                                         class="fa fa-eye"></i>View Order</a>
                                             </div>
                                         </div>
@@ -456,7 +456,7 @@ include('../include/header.php');
                                                 In Pending <i class="fas fa-caret-down text-lightgray"></i>
                                             </button>
                                             <div class="dropdown-menu">
-                                                <a class="dropdown-item" href="view-store-listing.php"><i
+                                                <a class="dropdown-item" href="in-process-order.php"><i
                                                         class="fas fa-arrow-down"></i> In Progress</a>
                                             </div>
                                         </div>
@@ -468,7 +468,7 @@ include('../include/header.php');
                                                 <i class="fa fa-ellipsis-v"></i>
                                             </button>
                                             <div class="dropdown-menu">
-                                                <a class="dropdown-item" href="view-store-listing.php"><i
+                                                <a class="dropdown-item" href="in-process-order.php"><i
                                                         class="fa fa-eye"></i>View Order</a>
                                             </div>
                                         </div>
@@ -562,7 +562,7 @@ include('../include/header.php');
                                                 Delivered <i class="fas fa-caret-down text-lightgray"></i>
                                             </button>
                                             <div class="dropdown-menu">
-                                                <a class="dropdown-item" href="view-store-listing.php"><i
+                                                <a class="dropdown-item" href="delivered-order.php"><i
                                                         class="fas fa-arrow-down"></i> In Progress</a>
                                             </div>
                                         </div>
@@ -574,7 +574,7 @@ include('../include/header.php');
                                                 <i class="fa fa-ellipsis-v"></i>
                                             </button>
                                             <div class="dropdown-menu">
-                                                <a class="dropdown-item" href="view-store-listing.php"><i
+                                                <a class="dropdown-item" href="delivered-order.php"><i
                                                         class="fa fa-eye"></i>View Order</a>
                                             </div>
                                         </div>
@@ -594,7 +594,7 @@ include('../include/header.php');
                                                 Delivered <i class="fas fa-caret-down text-lightgray"></i>
                                             </button>
                                             <div class="dropdown-menu">
-                                                <a class="dropdown-item" href="view-store-listing.php"><i
+                                                <a class="dropdown-item" href="delivered-order.php"><i
                                                         class="fas fa-arrow-down"></i> In Progress</a>
                                             </div>
                                         </div>
@@ -606,7 +606,7 @@ include('../include/header.php');
                                                 <i class="fa fa-ellipsis-v"></i>
                                             </button>
                                             <div class="dropdown-menu">
-                                                <a class="dropdown-item" href="view-store-listing.php"><i
+                                                <a class="dropdown-item" href="delivered-order.php"><i
                                                         class="fa fa-eye"></i>View Order</a>
                                             </div>
                                         </div>
@@ -626,7 +626,7 @@ include('../include/header.php');
                                                 Delivered <i class="fas fa-caret-down text-lightgray"></i>
                                             </button>
                                             <div class="dropdown-menu">
-                                                <a class="dropdown-item" href="view-store-listing.php"><i
+                                                <a class="dropdown-item" href="delivered-order.php"><i
                                                         class="fas fa-arrow-down"></i> In Progress</a>
                                             </div>
                                         </div>
@@ -638,7 +638,7 @@ include('../include/header.php');
                                                 <i class="fa fa-ellipsis-v"></i>
                                             </button>
                                             <div class="dropdown-menu">
-                                                <a class="dropdown-item" href="view-store-listing.php"><i
+                                                <a class="dropdown-item" href="delivered-order.php"><i
                                                         class="fa fa-eye"></i>View Order</a>
                                             </div>
                                         </div>
@@ -658,7 +658,7 @@ include('../include/header.php');
                                                 Delivered <i class="fas fa-caret-down text-lightgray"></i>
                                             </button>
                                             <div class="dropdown-menu">
-                                                <a class="dropdown-item" href="view-store-listing.php"><i
+                                                <a class="dropdown-item" href="delivered-order.php"><i
                                                         class="fas fa-arrow-down"></i> In Progress</a>
                                             </div>
                                         </div>
@@ -670,7 +670,7 @@ include('../include/header.php');
                                                 <i class="fa fa-ellipsis-v"></i>
                                             </button>
                                             <div class="dropdown-menu">
-                                                <a class="dropdown-item" href="view-store-listing.php"><i
+                                                <a class="dropdown-item" href="delivered-order.php"><i
                                                         class="fa fa-eye"></i>View Order</a>
                                             </div>
                                         </div>
@@ -690,7 +690,7 @@ include('../include/header.php');
                                                 Delivered <i class="fas fa-caret-down text-lightgray"></i>
                                             </button>
                                             <div class="dropdown-menu">
-                                                <a class="dropdown-item" href="view-store-listing.php"><i
+                                                <a class="dropdown-item" href="delivered-order.php"><i
                                                         class="fas fa-arrow-down"></i> In Progress</a>
                                             </div>
                                         </div>
@@ -702,7 +702,7 @@ include('../include/header.php');
                                                 <i class="fa fa-ellipsis-v"></i>
                                             </button>
                                             <div class="dropdown-menu">
-                                                <a class="dropdown-item" href="view-store-listing.php"><i
+                                                <a class="dropdown-item" href="delivered-order.php"><i
                                                         class="fa fa-eye"></i>View Order</a>
                                             </div>
                                         </div>
@@ -796,7 +796,7 @@ include('../include/header.php');
                                                 Refunded <i class="fas fa-caret-down text-lightgray"></i>
                                             </button>
                                             <div class="dropdown-menu">
-                                                <a class="dropdown-item" href="view-store-listing.php"><i
+                                                <a class="dropdown-item" href="refunded-order.php"><i
                                                         class="fas fa-arrow-down"></i> In Progress</a>
                                             </div>
                                         </div>
@@ -808,7 +808,7 @@ include('../include/header.php');
                                                 <i class="fa fa-ellipsis-v"></i>
                                             </button>
                                             <div class="dropdown-menu">
-                                                <a class="dropdown-item" href="view-store-listing.php"><i
+                                                <a class="dropdown-item" href="refunded-order.php"><i
                                                         class="fa fa-eye"></i>View Order</a>
                                             </div>
                                         </div>
@@ -828,7 +828,7 @@ include('../include/header.php');
                                                 Refunded <i class="fas fa-caret-down text-lightgray"></i>
                                             </button>
                                             <div class="dropdown-menu">
-                                                <a class="dropdown-item" href="view-store-listing.php"><i
+                                                <a class="dropdown-item" href="refunded-order.php"><i
                                                         class="fas fa-arrow-down"></i> In Progress</a>
                                             </div>
                                         </div>
@@ -840,7 +840,7 @@ include('../include/header.php');
                                                 <i class="fa fa-ellipsis-v"></i>
                                             </button>
                                             <div class="dropdown-menu">
-                                                <a class="dropdown-item" href="view-store-listing.php"><i
+                                                <a class="dropdown-item" href="refunded-order.php"><i
                                                         class="fa fa-eye"></i>View Order</a>
                                             </div>
                                         </div>
@@ -860,7 +860,7 @@ include('../include/header.php');
                                                 Refunded <i class="fas fa-caret-down text-lightgray"></i>
                                             </button>
                                             <div class="dropdown-menu">
-                                                <a class="dropdown-item" href="view-store-listing.php"><i
+                                                <a class="dropdown-item" href="refunded-order.php"><i
                                                         class="fas fa-arrow-down"></i> In Progress</a>
                                             </div>
                                         </div>
@@ -872,7 +872,7 @@ include('../include/header.php');
                                                 <i class="fa fa-ellipsis-v"></i>
                                             </button>
                                             <div class="dropdown-menu">
-                                                <a class="dropdown-item" href="view-store-listing.php"><i
+                                                <a class="dropdown-item" href="refunded-order.php"><i
                                                         class="fa fa-eye"></i>View Order</a>
                                             </div>
                                         </div>
@@ -892,7 +892,7 @@ include('../include/header.php');
                                                 Refunded <i class="fas fa-caret-down text-lightgray"></i>
                                             </button>
                                             <div class="dropdown-menu">
-                                                <a class="dropdown-item" href="view-store-listing.php"><i
+                                                <a class="dropdown-item" href="refunded-order.php"><i
                                                         class="fas fa-arrow-down"></i> In Progress</a>
                                             </div>
                                         </div>
@@ -904,7 +904,7 @@ include('../include/header.php');
                                                 <i class="fa fa-ellipsis-v"></i>
                                             </button>
                                             <div class="dropdown-menu">
-                                                <a class="dropdown-item" href="view-store-listing.php"><i
+                                                <a class="dropdown-item" href="refunded-order.php"><i
                                                         class="fa fa-eye"></i>View Order</a>
                                             </div>
                                         </div>
@@ -924,7 +924,7 @@ include('../include/header.php');
                                                 Refunded <i class="fas fa-caret-down text-lightgray"></i>
                                             </button>
                                             <div class="dropdown-menu">
-                                                <a class="dropdown-item" href="view-store-listing.php"><i
+                                                <a class="dropdown-item" href="refunded-order.php"><i
                                                         class="fas fa-arrow-down"></i> In Progress</a>
                                             </div>
                                         </div>
@@ -936,7 +936,7 @@ include('../include/header.php');
                                                 <i class="fa fa-ellipsis-v"></i>
                                             </button>
                                             <div class="dropdown-menu">
-                                                <a class="dropdown-item" href="view-store-listing.php"><i
+                                                <a class="dropdown-item" href="refunded-order.php"><i
                                                         class="fa fa-eye"></i>View Order</a>
                                             </div>
                                         </div>

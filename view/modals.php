@@ -763,6 +763,31 @@
         </div>
     </div>
 </div>
+
+<!-- Sign up -->
+<div class="modal fade sign-up p-0" data-bs-backdrop="static" data-keyboard="false" tabindex="-1" aria-labelledby="" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title"></h5>
+                <button type="button" class="btn close" data-bs-dismiss="modal" aria-label="Close">
+                    <i class="fa fa-times"></i>
+                </button>
+            </div>
+            <div class="modal-body px-5">
+                <div class="row">
+                    <div class="col-12 text-center">
+                        <img src="../assets/images/unblock-user.png" alt="" class="img-fluid">
+                        <h4 class="modal-title text-center text-dark pt-4">Vendor has been created successfully.</h4>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer border-0 pt-4 pb-5 text-center d-flex justify-content-center flex-column flex-sm-row align-items-stretch">
+                <a href="#" data-bs-dismiss="modal" aria-label="Close" class="btn btn-blue fs-18 lh-21 fw-bold">ok</a>
+            </div>
+        </div>
+    </div>
+</div>
 <!--------------------------
     Newsletter Listing End
 ---------------------------------->
